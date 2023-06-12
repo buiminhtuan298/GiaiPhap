@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GiaiPhap/static/css/main.96b1d76c.css",
+    "main.js": "/GiaiPhap/static/js/main.c4e18cd3.js",
+    "index.html": "/GiaiPhap/index.html",
+    "main.96b1d76c.css.map": "/GiaiPhap/static/css/main.96b1d76c.css.map",
+    "main.c4e18cd3.js.map": "/GiaiPhap/static/js/main.c4e18cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b1d76c.css",
+    "static/js/main.c4e18cd3.js"
+  ]
+}
